@@ -1,4 +1,4 @@
-# 🎬 ScriptScope AI (Gemini Edition)
+# 🎬 ScriptScope AI
 
 ScriptScope AI is a **RAG (Retrieval-Augmented Generation)** application that acts as a virtual "Script Doctor." It analyzes movie scripts for "on-the-nose" dialogue, pacing issues, and subtext.
 
